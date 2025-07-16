@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+My name is Joshua, I love playing video games and roller skating.
